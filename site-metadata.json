@@ -1,15 +1,15 @@
 {
-  "title": "Stackbit Azimuth Theme",
+  "title": "IoT-Seminaari",
   "palette": "blue",
   "header": {
     "title": "IoT-Seminaari",
-    "logo_img": "/images/logo_valkoinen.png",
+    "logo_img": "/images/logo_musta.png",
     "has_nav": true,
     "menu": {
       "actions": [
         {
-          "label": "Sign Up",
-          "url": "/signup"
+          "label": "Ilmottautuminen",
+          "url": "/ilmottautuminen"
         }
       ]
     }
