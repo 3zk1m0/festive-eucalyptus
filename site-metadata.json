@@ -3,13 +3,13 @@
   "palette": "blue",
   "header": {
     "title": "IoT-Seminaari",
-    "logo_img": "/images/logo_musta.png",
+    "logo_img": "/images/logo_2020.png",
     "has_nav": true,
     "menu": {
       "actions": [
         {
           "label": "Ilmottautuminen",
-          "url": "/ilmottautuminen"
+          "url": "/signup"
         }
       ]
     }
@@ -20,7 +20,7 @@
     "has_subscribe": false,
     "social_title": "Community",
     "tagline": "Source Ry",
-    "logo_img": "/images/logo_valkoinen.png",
+    "logo_img": "/images/logo_white_2020.png",
     "has_social": true,
     "content": "&copy; Stackbit. All rights reserved.",
     "links": [

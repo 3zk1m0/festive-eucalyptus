@@ -14,8 +14,6 @@ import Social from './Social';
 import SubscribeForm from './SubscribeForm';
 import Layout from './Layout';
 
-import SectionKeynotes from './SectionKeynote';
-
 export {
     CtaButtons,
     Footer,
@@ -32,8 +30,6 @@ export {
     Social,
     SubscribeForm,
     Layout,
-
-    SectionKeynotes
 };
 
 export default {
@@ -52,6 +48,4 @@ export default {
     Social,
     SubscribeForm,
     Layout,
-
-    SectionKeynotes
 };

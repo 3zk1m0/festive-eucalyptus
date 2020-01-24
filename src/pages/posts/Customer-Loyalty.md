@@ -1,8 +1,12 @@
 ---
 title: Customer Loyalty Programs That Stick
+company: Yritys nimi
+company_logo: /images/logo_musta.png
+company_url: http://www.google.com
+speaker: Puhuja nimi
 subtitle: A story about customer loyalty
 date: '2019-04-23'
-thumb_img_path: images/3_thumb.jpg
+thumb_img_path: /images/logo_musta.png
 img_path: images/3.jpg
 excerpt: >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit

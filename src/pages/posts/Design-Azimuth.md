@@ -1,5 +1,7 @@
 ---
 title: Behind the Scenes - The Design of Azimuth
+company: Yritys nimi
+speker: Puhuja nimi
 date: '2018-01-09'
 thumb_img_path: images/6_thumb.jpg
 img_path: images/6.jpg

@@ -1,5 +1,7 @@
 ---
 title: A Guide To User Journey Mapping
+company: Yritys nimi
+speker: Puhuja nimi
 subtitle: >-
   Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.

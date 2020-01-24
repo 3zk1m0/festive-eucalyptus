@@ -1,6 +1,11 @@
 ---
 title: The Advantages and Disadvantages of Working from Home
-date: '2019-04-22'
+subtitle: >-
+  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
+  aliquet rhoncus sed, hendrerit vel odio.
+company: Yritys nimi
+speker: Puhuja nimi
+date: '2020-01-01'
 thumb_img_path: images/9_thumb.jpg
 img_path: images/9.jpg
 excerpt: >-

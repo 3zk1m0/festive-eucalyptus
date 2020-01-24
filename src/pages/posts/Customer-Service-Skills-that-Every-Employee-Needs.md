@@ -1,5 +1,7 @@
 ---
 title: 5 Customer Service Skills that Every Employee Needs
+company: Yritys nimi
+speker: Puhuja nimi
 subtitle: 'Apparently, there are 5 Service Skills that Every Employee Needs'
 date: '2018-01-11'
 thumb_img_path: images/5_thumb.jpg

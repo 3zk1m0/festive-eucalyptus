@@ -1,5 +1,7 @@
 ---
 title: How Our Design Team Collaborates
+company: Yritys nimi
+speker: Puhuja nimi
 date: '2019-03-24'
 thumb_img_path: images/11_thumb.jpg
 img_path: images/11.jpg

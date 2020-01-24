@@ -7,7 +7,7 @@ sections:
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site. 
-    image: images/hero.png
+    image: images/iot_2.png
     section_id: hero
     title: This Is A Big Hero Headline
     type: section_hero
@@ -21,7 +21,7 @@ sections:
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
         image: images/feature1.png
-        title: The Best Feature of Your Services
+        title: Tietoturva
       - actions:
           - label: Learn More
             url: /features
@@ -30,21 +30,12 @@ sections:
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
           auctor.
         image: images/feature2.png
-        title: Awesome Feature of Your Services
-      - actions:
-          - label: Learn More
-            url: /features
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        image: images/feature3.png
-        title: Cool Feature of Your Services
+        title: ympäristö
     section_id: features
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
-    title: Features
+    title: Teemat 2020
     type: section_features
   - bg: white
     reviews:
@@ -71,11 +62,11 @@ sections:
     title: Testimonials
     type: section_reviews
   - actions:
-      - label: Get Started
+      - label: Ilmottautuminen
         url: /signup
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call To Action Block!
+    subtitle: Ei muutakun ilmottautumaan
+    title: Kiinostuitko?
     type: section_cta
   - bg: gray
     section_id: recent-posts

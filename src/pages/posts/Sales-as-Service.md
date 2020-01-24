@@ -1,5 +1,7 @@
 ---
 title: Sales as a Service
+company: Yritys nimi
+speker: Puhuja nimi
 subtitle: A interesting tale about Sales
 date: '2018-01-15'
 thumb_img_path: images/4_thumb.jpg
