@@ -2,41 +2,31 @@
 title: Info
 sections:
   - actions:
-      - label: Free Trial
+      - label: Ohjelma
+        url: /ohjelma
+      - label: Ilmottautuminen
         url: /signup
-      - label: View Demo
-        url: '#'
     bg: gray
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      IoT-Seminaari on Tampereen ammattikorkeakoululla järjestettävä seminaaritapahtuma, joka kerää yhteen alan yrityksiä, asiantuntijoita ja opiskelijoita. Seminaarin järjestää Tampereen ammattikorkeakoulun ainejärjestö Source Ry. Tänä vuonna seminaaria sponsoroi ALSO Finland Oy.
 
+      ### Osoite
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Tampereen ammattikorkeakoulu, Kuntokatu 3, 33520 Tampere 
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      ### Parkkipaikat
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+      Kaikki TAMK:n parkkipaikat ovat luvanvaraisia ja emme voi myöntää parkkilupia niihin ulkopuolisen valvonnan vuoksi. IoT-Seminaari ei vastaa väärin parkkeeratuista ajoneuvoista tai mahdollisista sakoista. Suosittelemme julkisen liikenteen hyödyntämistä seminaariin saapuville.
 
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
-    image: images/feature1.png
+      ### Tapahtuma
+    # image: images/feature1.png
     section_id: features
-    title: The Best Features of Your Services
+    title: IoT-Seminaari 2020
     type: section_content
-  - actions:
-      - label: Get Started
-        url: '#'
-    section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call to Action Block!
-    type: section_cta
 menus:
   main:
-    title: Features
-    weight: 2
+    title: Info
+    weight: 3
 template: landing
 ---
 

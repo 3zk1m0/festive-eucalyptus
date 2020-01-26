@@ -27,6 +27,20 @@ export default class Footer extends React.Component {
                         {_.get(this.props, 'pageContext.site.siteMetadata.footer.tagline')}
                       </p>
                       }
+                      {_.get(this.props, 'pageContext.site.siteMetadata.footer.logo_img2') ? 
+                      <p className="site-logo">
+                        <Link to={safePrefix('/')}><img src={safePrefix(_.get(this.props, 'pageContext.site.siteMetadata.footer.logo_img2'))} alt="Logo" /></Link>
+                      </p>
+                       : 
+                      <p className="site-title">
+                        <Link to={safePrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.header.title2')}</Link>
+                      </p>
+                      }
+                      {_.get(this.props, 'pageContext.site.siteMetadata.footer.tagline2') && 
+                      <p className="site-description">
+                        {_.get(this.props, 'pageContext.site.siteMetadata.footer.tagline2')}
+                      </p>
+                      }
                     </div>
                     {((_.get(this.props, 'pageContext.menus.secondary') && _.get(this.props, 'pageContext.site.siteMetadata.footer.has_nav')) || _.get(this.props, 'pageContext.site.siteMetadata.footer.has_social')) && 
                     <nav className="widget footer-navigation">
