@@ -8,8 +8,8 @@
     "menu": {
       "actions": [
         {
-          "label": "Ilmottautuminen",
-          "url": "/signup"
+          "label": "Ohjelma",
+          "url": "/ohjelma"
         }
       ]
     }

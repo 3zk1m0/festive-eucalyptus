@@ -2,6 +2,8 @@
 title: Yrityksille
 sections:
   - actions:
+        - label: Ilmottautuminen
+          url: /signup
     bg: gray
     content: >-
       Tällä hetkellä etsimme seminaariin puhujia sekä näytteilleasettajia.
