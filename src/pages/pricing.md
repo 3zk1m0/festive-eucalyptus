@@ -1,8 +1,21 @@
 ---
 title: Yrityksille
 sections:
+  - actions:
+    bg: gray
+    content: >-
+      Tällä hetkellä etsimme seminaariin puhujia sekä näytteilleasettajia.
+
+      Näytteilleasettajapaikat ovat tänä vuonna maksullisia. Paikan hinta koko päivältä on 200€ (Alv. 0%). Rahat ohjataan lyhentämättömänä IoT-Seminaarin kehittämiseen sekä Tieto- ja viestintätekniikan kerho Source Ry:lle, joka mm. tukee opiskelijoiden omia projekteja ja järjestää opiskelijatapahtumia.
+
+      Yhteydenotot: 
+
+    section_id: business
+    title: Yrityksille
+    type: section_content
   - bg: gray
     pricingplans:
+      
       - actions:
           - label: Order Now
             url: https://holvi.com/shop/SOURCE/product/9fd1d8ff8f4c845612ca3e3e9161faee/
@@ -36,7 +49,7 @@ sections:
         title: Charlie
     section_id: pricing
     subtitle: You can have a separate pricing page or list everything on the home page.
-    title: Pricing Plans
+    title: Ständipaikat
     type: section_pricing
   - bg: gray
     faqitems:

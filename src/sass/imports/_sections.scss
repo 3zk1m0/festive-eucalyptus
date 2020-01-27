@@ -192,20 +192,12 @@
 
 .review-text {
   margin-bottom: 1.5em;
-  padding-top: 2rem;
+  padding-top: 1rem;
   position: relative;
+}
 
-  &:before {
-    color: _palette(accent);
-    content: "\201C";
-    display: block;
-    font-size: 2.66667rem;
-    font-weight: bold;
-    left: 0;
-    line-height: 1;
-    position: absolute;
-    top: 0;
-  }
+.review-company {
+  margin-top: 0;
 }
 
 .review-footer {
@@ -215,6 +207,7 @@
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  margin-top: auto;
 
   .review-author {
     color: _palette(secondary);
@@ -317,9 +310,12 @@
   border-radius: 3px;
   box-shadow: 0 3px 10px 0 rgba(_palette(primary),.1);
   padding: 1.66667rem 1.66667rem 0.83333rem;
-
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
   .block-buttons {
-    margin-top: 1.66667rem;
+    margin-top: 1.66666rem;
   }
 }
 

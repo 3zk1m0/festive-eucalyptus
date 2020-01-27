@@ -24,13 +24,15 @@ export default class SectionPricing extends React.Component {
                   {_.map(_.get(this.props, 'section.pricingplans'), (plan, plan_idx) => (
                   <div key={plan_idx} className={'cell plan' + (_.get(plan, 'highlight') ? ' highlight' : '')}>
                     <div className="plan-inside">
-                    <h3 className="plan-name">{_.get(plan, 'title')}</h3>
-                    {_.get(plan, 'price') && 
-                    <div className="plan-price">{_.get(plan, 'price')}</div>
-                    }
-                    <div className="plan-details">
-                      {markdownify(_.get(plan, 'details'))}
-                    </div>
+                      <div>
+                        <h3 className="plan-name">{_.get(plan, 'title')}</h3>
+                        {_.get(plan, 'price') && 
+                        <div className="plan-price">{_.get(plan, 'price')}</div>
+                        }
+                        <div className="plan-details">
+                          {markdownify(_.get(plan, 'details'))}
+                        </div>
+                      </div>
                     {_.get(plan, 'actions') && 
                       <CtaButtons {...this.props} actions={_.get(plan, 'actions')} />
                     }
