@@ -15,14 +15,14 @@ export default class Footer extends React.Component {
                     <div className="widget footer-branding">
                       {_.get(this.props, 'pageContext.site.siteMetadata.footer.logo_img') ? 
                       <p className="footer-logo">
-                        <Link to={safePrefix('/')}><img src={safePrefix(_.get(this.props, 'pageContext.site.siteMetadata.footer.logo_img'))} alt="Logo" /></Link>
+                        <Link to={_.get(this.props, 'pageContext.site.siteMetadata.footer.link')}><img src={safePrefix(_.get(this.props, 'pageContext.site.siteMetadata.footer.logo_img'))} alt="Logo" /></Link>
                       </p>
                        : 
                         null
                       }
                       {_.get(this.props, 'pageContext.site.siteMetadata.footer.logo_img2') ? 
                       <p className="footer-logo">
-                        <Link to={safePrefix('/')}><img src={safePrefix(_.get(this.props, 'pageContext.site.siteMetadata.footer.logo_img2'))} alt="Logo" /></Link>
+                        <Link to={_.get(this.props, 'pageContext.site.siteMetadata.footer.link2')}><img src={safePrefix(_.get(this.props, 'pageContext.site.siteMetadata.footer.logo_img2'))} alt="Logo" /></Link>
                       </p>
                        : 
                       null
