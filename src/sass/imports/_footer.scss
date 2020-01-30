@@ -36,9 +36,9 @@
 
 .widget {
   box-sizing: border-box;
-  -webkit-flex: 0 0 33.333%;
-  -ms-flex: 0 0 33.333%;
-  flex: 0 0 33.333%;
+  -webkit-flex: 0 0 50%;
+  -ms-flex: 0 0 50%;
+  flex: 0 0 50%;
   font-size: 0.88889rem;
   line-height: 1.5;
   padding-left: 0.83333rem;
@@ -52,20 +52,19 @@
 }
 
 .footer-branding {
+  margin-bottom: 2.5rem;
+  display: flex;
   a {
     border: 0;
   }
 
-  .site-title {
-    font-size: 1.33333rem;
+}
 
-    &:last-child {
-      margin-bottom: 2.5rem;
-    }
-  }
-
-  .site-description {
-    margin: 0.5rem 0 2.5rem;
+.footer-logo {
+  margin: 0;
+  margin-right: 2rem;
+  img {
+    max-height: 80px;
   }
 }
 

@@ -20,12 +20,12 @@
     "has_subscribe": false,
     "social_title": "Media",
     "tagline": "Source Ry",
-    "logo_img": "/images/logo_white_2020.png",
+    "logo_img": "/images/source_logo.png",
     "link": "http://sourcery.rocks",
     "tagline2": "Tampereen ammattikorkeakoulu",
     "logo_img2": "/images/tuni.png",
     "link2": "https://tuni.fi",
-    "has_social": true,
+    "has_social": false,
     "content": "&copy; Stackbit. All rights reserved.",
     "links": [
       {

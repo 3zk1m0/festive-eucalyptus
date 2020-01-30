@@ -14,34 +14,21 @@ export default class Footer extends React.Component {
                   <div className="footer-widgets">
                     <div className="widget footer-branding">
                       {_.get(this.props, 'pageContext.site.siteMetadata.footer.logo_img') ? 
-                      <p className="site-logo">
+                      <p className="footer-logo">
                         <Link to={safePrefix('/')}><img src={safePrefix(_.get(this.props, 'pageContext.site.siteMetadata.footer.logo_img'))} alt="Logo" /></Link>
                       </p>
                        : 
-                      <p className="site-title">
-                        <Link to={safePrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.header.title')}</Link>
-                      </p>
-                      }
-                      {_.get(this.props, 'pageContext.site.siteMetadata.footer.tagline') && 
-                      <p className="site-description">
-                        {_.get(this.props, 'pageContext.site.siteMetadata.footer.tagline')}
-                      </p>
+                        null
                       }
                       {_.get(this.props, 'pageContext.site.siteMetadata.footer.logo_img2') ? 
-                      <p className="site-logo">
+                      <p className="footer-logo">
                         <Link to={safePrefix('/')}><img src={safePrefix(_.get(this.props, 'pageContext.site.siteMetadata.footer.logo_img2'))} alt="Logo" /></Link>
                       </p>
                        : 
-                      <p className="site-title">
-                        <Link to={safePrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.header.title2')}</Link>
-                      </p>
-                      }
-                      {_.get(this.props, 'pageContext.site.siteMetadata.footer.tagline2') && 
-                      <p className="site-description">
-                        {_.get(this.props, 'pageContext.site.siteMetadata.footer.tagline2')}
-                      </p>
+                      null
                       }
                     </div>
+
                     {((_.get(this.props, 'pageContext.menus.secondary') && _.get(this.props, 'pageContext.site.siteMetadata.footer.has_nav')) || _.get(this.props, 'pageContext.site.siteMetadata.footer.has_social')) && 
                     <nav className="widget footer-navigation">
                       <div className="footer-nav-inside">
