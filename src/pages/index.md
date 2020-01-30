@@ -5,10 +5,10 @@ sections:
       - label: Ohjelma
         url: /ohjelma
     content: >-
-      IoT-Seminaari on Tampereen ammattikorkeakoululla järjestettävä seminaaritapahtuma, joka kerää yhteen alan yrityksiä, asiantuntijoita ja opiskelijoita. Seminaarin järjestää Tampereen ammattikorkeakoulun ainejärjestö Source Ry.  
+      IoT-Seminaari on Tampereen ammattikorkeakoululla järjestettävä seminaaritapahtuma, joka kerää yhteen alan yrityksiä, asiantuntijoita ja opiskelijoita. Tapahtuma järjestetään 10.-11.3.2020. Seminaarin järjestää Tampereen ammattikorkeakoulun ainejärjestö SOURCE ry. 
     image: images/iot_2.png
     section_id: hero
-    title: Jo viidettä vuotta järjestettävä
+    title: Jo viidettä vuotta
     type: section_hero
   - bg: gray
     featureslist:
@@ -26,13 +26,12 @@ sections:
         title: Ympäristö
     section_id: features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Tänä vuonna seminaarin teemoina ovat tietoturva ja ympäristö IoT:ssa.  
     title: Teemat 2020
     type: section_features
   - actions:
     - label: Ilmottautuminen
-      url: /signup
+      url: /ilmottautuminen
     section_id: call-to-action
     subtitle: Ei muutakun ilmottautumaan
     title: Kiinostuitko?
