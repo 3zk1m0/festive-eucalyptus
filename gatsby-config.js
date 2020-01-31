@@ -2,6 +2,13 @@ module.exports = {
     pathPrefix: '/',
     siteMetadata: require('./site-metadata.json'),
     plugins: [
+        {
+            resolve: `gatsby-plugin-google-analytics`,
+            options: {
+              trackingId: "UA-140813410-2",
+              header: true,
+            },
+          },
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
         {
@@ -38,11 +45,5 @@ module.exports = {
                 menus: require('./src/data/menus.json'),
             }
         },
-        {
-            resolve: `gatsby-plugin-google-analytics`,
-            options: {
-              trackingId: "UA-140813410-2",
-            },
-          },
     ]
 };
