@@ -11,7 +11,7 @@ sections:
       Puhujan paikat eivät kustanna mitään, joten jos teiltä löytyy aiheeseen liittyvää tietoa ja kerrottavaa, ilmoittautukaa ihmeessä mukaan! Linkki ilmoittautumiseen löytyy tästä, ja ilmoittautuminen-välilehdeltä.
 
     section_id: parking
-    image: images/map.jpg
+    image: images/map.png
     title: Yrityksille
     type: section_content
   - bg: gray
