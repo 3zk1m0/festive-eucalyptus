@@ -9,10 +9,10 @@ dataDir: src/data
 pagesDir: src/pages
 pageLayoutKey: template
 metadata:
-  title: Azimuth
-  description: A sleek SaaS theme
-  author: Stackbit
-  authorURL: 'https://www.stackbit.com'
+  title: IoT-Seminaari
+  description: IoT-Seminaari
+  author: Source ry
+  authorURL: 'https://www.soyrcery.rocks'
   images:
     small: images/demo-256x192.png
     large: images/demo-1024x768.png

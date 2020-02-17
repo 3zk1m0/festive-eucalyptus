@@ -8,7 +8,7 @@ sections:
     content: >-
       Tällä hetkellä etsimme seminaariin puhujia sekä näytteilleasettajia. Näytteilleasettajapaikat kustantavat kahdelle päivälle 150 – 250 € riippuen ständin sijannista tapahtuma-alueella. Rahat ohjataan lyhentämättömänä IoT-Seminaarin kehittämiseen sekä Tieto- ja viestintätekniikan kerho SOURCE ry:lle, joka mm. tukee opiskelijoiden omia projekteja ja järjestää opiskelijatapahtumia. 
       <br><br>
-      Puhujan paikat eivät kustanna mitään, joten jos teiltä löytyy aiheeseen liittyvää tietoa ja kerrottavaa, ilmoittautukaa ihmeessä mukaan! Linkki ilmoittautumiseen löytyy tästä, ja ilmoittautuminen-välilehdeltä.
+      Puhujan paikat eivät kustanna mitään, joten jos teiltä löytyy aiheeseen liittyvää tietoa ja kerrottavaa, ilmoittautukaa ihmeessä mukaan! Linkki ilmoittautumiseen löytyy tästä, ja ilmoittautuminen-välilehdeltä. Esitysten kesto on noin 30-45 minuuttia.
 
     section_id: parking
     image: images/map.png
