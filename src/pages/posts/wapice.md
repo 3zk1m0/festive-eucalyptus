@@ -3,7 +3,7 @@ title: Wapice
 company: Yritys nimi
 speker: Puhuja nimi
 subtitle: >-
-date: '2017-03-26'
+date: '2019-03-26'
 thumb_img_path: images/wapice.png
 img_path: images/wapice.png
 excerpt: >-
