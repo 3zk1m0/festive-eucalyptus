@@ -40,13 +40,13 @@ sections:
   - bg: gray
     content: >-
       Työpaja pidetään tilassa B4-25 ja alkaa kello 13.15.  <br/> <br/> Tähän
-      yöpajaan ei tarvitse ilmoittautua. <br/> <br/> Käy kuuntelemassa Miko
+      työpajaan ei tarvitse ilmoittautua. <br/> <br/> Käy kuuntelemassa Miko
       Olkkosen keynote-puheenvuoro keskiviikkona klo. 12:15 Juhlasalissa D1-04.
       <br/> <br/> **10 X IoT digital twin - voiko IoT-datan visualisointi olla
       näin helppoa ja halpaa?** <br/> Miko Olkkonen, Fortum eSite <br/> <br/>
       Tule työpajaan jatkamaan aiheesta keskustelua ja kokemaan itse, miten
       juuri sinä voit hyödyntää mahdollisuuksia opinnoissasi omassa työssäsi ja
-      yrityksessäsi tai vaikka maailman pelastamisessa. 
+      yrityksessäsi tai vaikka maailman pelastamisessa.
     section_id: business
     title: IoT-datan visualisointi ja mahdollisuudet
     type: section_content
